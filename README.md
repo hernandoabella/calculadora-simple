@@ -1,1 +1,1 @@
-# calculadora-simple
+# simple-javascript-calculator
